@@ -3,7 +3,7 @@ FoodPin是一款餐廳評論app，可以讓使用者紀錄到訪過的餐廳，�
 
 
 空白首頁，可點右上方新增餐廳
-----
+
 <img width="187.5" height="333.5" src="https://github.com/alex851209/FoodPinDetailStarter/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202020-01-24%20at%2015.52.44.png"/>  
 新增餐廳頁面
 ----
